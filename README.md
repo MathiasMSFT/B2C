@@ -2,7 +2,7 @@
 
 ## Create an Azure AD B2C tenant
 
-![page](./Create%20a%20tenant/README.md)
+![link](./Create%20a%20tenant)
 
 
 
