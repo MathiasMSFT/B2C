@@ -11,14 +11,13 @@
 ## Select "new azure AD B2C tenant"
 
 ![image](./images/New-Tenant-3.png)
-* create a resource group that will store your B2C tenant
 
 ## Enter all informations
-
+* create a resource group that will store your B2C tenant
 ![image](./images/New-Tenant-4.png)
 
 
-## If okay, click on Create
+## If validation passed, click on Create
 
 ![image](./images/New-Tenant-5.png)
 
